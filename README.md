@@ -38,7 +38,7 @@ Realización de videos prácticos con Sensores y Actuadores
 
 | Integrante | Link Drive |
 |-------------|--------------|
-| Jennifer Ailin Medina Hernández | [link de drive] |
+| Jennifer Ailin Medina Hernández | [link de drive](https://drive.google.com/drive/folders/1JuTReTSXgN_EZ8mCqOGC7w0-O1bLq9VZ?usp=sharing)|
 | Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/drive/folders/1RxvbnNiIj3fxsCMn9mxGbzruTqmGTIXD?usp=sharing) |
 
 
