@@ -26,8 +26,13 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | |
+|Jennifer Ailin Medina Hernández |<img src="https://github.com/user-attachments/assets/dd3b2269-201c-459e-8dcb-75320c6bd2fa" width="500"/> |
 | Cecilia Aurora Robelo Hernández | ![image](https://github.com/user-attachments/assets/93f6aea4-e525-43c1-bd62-8e86761dc441)|
+
+| Integrante | Evaluación en clase |
+|--------------|--------------|
+|Jennifer Ailin Medina Hernández |<img src="https://github.com/user-attachments/assets/9b7007e2-a6b9-4b04-b447-89b98dfa0c42" width="500"/> |
+| Cecilia Aurora Robelo Hernández | |
 
 ### 🛠️ Parte Práctica Pareja
 
