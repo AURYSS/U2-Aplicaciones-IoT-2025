@@ -50,7 +50,7 @@ Realización de videos prácticos con Sensores y Actuadores
 | Integrante| Componente | imagen |
 |--------------|--------------|--------------|
 |Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= " " width="300"/>|
-| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src= " " width="300"/>|
+| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src= "" width="300"/>|
 
 ## 🎯 Objetivos del Proyecto
 
