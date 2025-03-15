@@ -26,7 +26,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | |
+|Jennifer Ailin Medina Hernández | ![Imagen de WhatsApp 2025-03-14 a las 21 38 14_fcdc44c8](https://github.com/user-attachments/assets/49746ed3-0b09-4cb9-8c69-0d1323fa6a37)|
 | Cecilia Aurora Robelo Hernández | ![image](https://github.com/user-attachments/assets/93f6aea4-e525-43c1-bd62-8e86761dc441)|
 
 ### 🛠️ Parte Práctica Pareja
@@ -59,6 +59,13 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 |--------------|--------------|--------------|
 |Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= " " width="300"/>|
 | Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
+
+✅ **Evidencias Video de Placa Soldada con Leds:**
+
+| Integrante|  imagen |
+|--------------|--------------|
+|Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  |
+| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
 
 ## 🎯 Objetivos del Proyecto
 
