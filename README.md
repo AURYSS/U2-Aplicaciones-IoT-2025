@@ -42,6 +42,14 @@ Realización de videos prácticos con Sensores y Actuadores
 | Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/drive/folders/1RxvbnNiIj3fxsCMn9mxGbzruTqmGTIXD?usp=sharing) |
 
 
+✅ **Evidencias Individuales:**
+
+Realización de diagramas de las prácticas de sensores y actuadores realizados en clases
+
+| Diagramas| Link Drive |
+|-------------|--------------|
+| 40 Ejercicios | [link de drive](https://docs.google.com/document/d/1y75AMNeXOGVOef9gWzuQ3AwWN3aLlHi__EPXLGG11ck/edit?usp=sharing)|
+
 ### 🔧 Ejercicio: Soldadura (Individual) Circuito funcional en placa con LEDS**
 📌 Realización de un circuito funcional en una placa fenólica con leds.
 
@@ -50,7 +58,7 @@ Realización de videos prácticos con Sensores y Actuadores
 | Integrante| Componente | imagen |
 |--------------|--------------|--------------|
 |Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= " " width="300"/>|
-| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src= "" width="300"/>|
+| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
 
 ## 🎯 Objetivos del Proyecto
 
