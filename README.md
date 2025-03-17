@@ -62,14 +62,14 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 | Integrante| Componente | imagen |
 |--------------|--------------|--------------|
-|Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= " " width="300"/>|
+|Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= "https://github.com/user-attachments/assets/6cb42a85-16eb-470c-81e0-a5e859a3723d" width="300"/>|
 | Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
 
 ✅ **Evidencias Video de Placa Soldada con Leds:**
 
 | Integrante|  imagen |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández|   |
+|Jennifer Ailin Medina Hernández|  [link de drive](https://drive.google.com/file/d/1basKaZe2n7jkM0x5LAOHcEqTxcPy-XTc/view?usp=sharing) |
 | Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
 
 ## 🎯 Objetivos del Proyecto
